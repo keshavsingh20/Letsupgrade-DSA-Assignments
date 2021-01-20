@@ -7,7 +7,7 @@ Question 1
   for (j = 0; j < M; j++) {
   b = b + j;
   }
-Ans. Time complexity is O(N+M).
+Ans. Time complexity is O(N+M).  Space complexity is O(1).
 
 
 Question 2
