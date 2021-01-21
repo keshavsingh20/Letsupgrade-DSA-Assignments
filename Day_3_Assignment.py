@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Question 1:
 # Write a Python program to add two numbers using class and object.
 # (Take both numbers as input from the user)
