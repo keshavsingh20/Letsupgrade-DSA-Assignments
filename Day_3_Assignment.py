@@ -5,15 +5,11 @@
 # Write a Python program to add two numbers using class and object.
 # (Take both numbers as input from the user)
 
-# In[2]:
-
-
 class Add:
 
     def findsum(self, a, b):
         s = a + b
         return s
-
 
 a = int(input("Enter first number:"))
 b = int(input("Enter second number:"))
@@ -24,12 +20,10 @@ s = obj.findsum(a, b)
 print("Sum is:", s)
 
 
+
 # # Question 2:
 # Define a function swap that should swap two values and print the swapped variables outside the
 # swap function.
-
-# In[15]:
-
 
 def swap(a,b):
     a,b=b,a
@@ -42,13 +36,6 @@ b=int(input("Enter the value of b: "))
 swap(a,b)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
