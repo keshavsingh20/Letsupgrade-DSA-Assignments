@@ -1,12 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Question 1
 # Implement deletion operation from the end of the linked list and Insertion operation from the
 # beginning of the linked list
-
-# In[16]:
-
 
 class Node:
     def __init__(self, data):
@@ -49,12 +43,10 @@ li.insertBeg(30)
 li.display()
 
 
+
 # # Question 2
 # Implement binary search using python language.
 # (Write a function which returns the index of x in given array arr if present, else returns -1)
-
-# In[4]:
-
 
 def binary_search(arr,low,high,x):
     if high>=low:
@@ -126,8 +118,6 @@ list1.push(3)
 list1.push(1) 
 list1.printMiddle() 
 
-
-# In[ ]:
 
 
 
